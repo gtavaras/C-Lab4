@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|c:\\users\\tavar\\source\\repos\\ordermanagement\\q1\\usercontrols\\additemtoorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\usercontrols\\additemtoorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\q1\\viewmodels\\listorderdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\viewmodels\\listorderdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\q1\\usercontrols\\listorderdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\usercontrols\\listorderdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\q1\\dataaccess\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\dataaccess\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55009C3D-1A2A-4BBA-86E1-0C330E0F7B91}|OMSLibrary\\OMSLibrary.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\omslibrary\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55009C3D-1A2A-4BBA-86E1-0C330E0F7B91}|OMSLibrary\\OMSLibrary.csproj|solutionrelative:omslibrary\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OMS/True/SqlTable/dbo.BasketItem.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\q1\\usercontrols\\additemtoorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\usercontrols\\additemtoorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\q1\\viewmodels\\additemtoorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\viewmodels\\additemtoorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\q1\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\q1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\q1\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\q1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\q1\\usercontrols\\listorderdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\usercontrols\\listorderdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\q1\\q1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\q1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\q1\\commands\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2148DBEA-CD2F-49C2-9799-D93C71F773FE}|Q1\\Q1.csproj|solutionrelative:q1\\commands\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55009C3D-1A2A-4BBA-86E1-0C330E0F7B91}|OMSLibrary\\OMSLibrary.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\omslibrary\\models\\basketiteminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55009C3D-1A2A-4BBA-86E1-0C330E0F7B91}|OMSLibrary\\OMSLibrary.csproj|solutionrelative:omslibrary\\models\\basketiteminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55009C3D-1A2A-4BBA-86E1-0C330E0F7B91}|OMSLibrary\\OMSLibrary.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\omslibrary\\models\\basketshopperinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55009C3D-1A2A-4BBA-86E1-0C330E0F7B91}|OMSLibrary\\OMSLibrary.csproj|solutionrelative:omslibrary\\models\\basketshopperinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55009C3D-1A2A-4BBA-86E1-0C330E0F7B91}|OMSLibrary\\OMSLibrary.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\omslibrary\\models\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55009C3D-1A2A-4BBA-86E1-0C330E0F7B91}|OMSLibrary\\OMSLibrary.csproj|solutionrelative:omslibrary\\models\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55009C3D-1A2A-4BBA-86E1-0C330E0F7B91}|OMSLibrary\\OMSLibrary.csproj|C:\\Users\\tavar\\source\\repos\\OrderManagement\\omslibrary\\models\\omscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55009C3D-1A2A-4BBA-86E1-0C330E0F7B91}|OMSLibrary\\OMSLibrary.csproj|solutionrelative:omslibrary\\models\\omscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.BasketItem [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OMS/True/SqlTable/dbo.BasketItem.sql",
+              "ToolTip": "dbo.BasketItem [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-01T02:35:24.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\OMSLibrary\\Models\\BasketItem.cs",
+              "RelativeDocumentMoniker": "OMSLibrary\\Models\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\OMSLibrary\\Models\\BasketItem.cs",
+              "RelativeToolTip": "OMSLibrary\\Models\\BasketItem.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:35:02.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\App.xaml",
+              "RelativeDocumentMoniker": "Q1\\App.xaml",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\App.xaml",
+              "RelativeToolTip": "Q1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T02:01:01.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddItemToOrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\ViewModels\\AddItemToOrderViewModel.cs",
+              "RelativeDocumentMoniker": "Q1\\ViewModels\\AddItemToOrderViewModel.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\ViewModels\\AddItemToOrderViewModel.cs",
+              "RelativeToolTip": "Q1\\ViewModels\\AddItemToOrderViewModel.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:45:54.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddItemToOrder.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\UserControls\\AddItemToOrder.xaml.cs",
+              "RelativeDocumentMoniker": "Q1\\UserControls\\AddItemToOrder.xaml.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\UserControls\\AddItemToOrder.xaml.cs",
+              "RelativeToolTip": "Q1\\UserControls\\AddItemToOrder.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAswDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:44:56.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddItemToOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\UserControls\\AddItemToOrder.xaml",
+              "RelativeDocumentMoniker": "Q1\\UserControls\\AddItemToOrder.xaml",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\UserControls\\AddItemToOrder.xaml",
+              "RelativeToolTip": "Q1\\UserControls\\AddItemToOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T01:44:02.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListOrderDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\ViewModels\\ListOrderDetailViewModel.cs",
+              "RelativeDocumentMoniker": "Q1\\ViewModels\\ListOrderDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\ViewModels\\ListOrderDetailViewModel.cs",
+              "RelativeToolTip": "Q1\\ViewModels\\ListOrderDetailViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T23:16:45.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListOrderDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\UserControls\\ListOrderDetail.xaml.cs",
+              "RelativeDocumentMoniker": "Q1\\UserControls\\ListOrderDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\UserControls\\ListOrderDetail.xaml.cs*",
+              "RelativeToolTip": "Q1\\UserControls\\ListOrderDetail.xaml.cs*",
+              "ViewState": "AQIAABkAAAAAAAAAAAAzwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T23:15:57.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListOrderDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\UserControls\\ListOrderDetail.xaml",
+              "RelativeDocumentMoniker": "Q1\\UserControls\\ListOrderDetail.xaml",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\UserControls\\ListOrderDetail.xaml",
+              "RelativeToolTip": "Q1\\UserControls\\ListOrderDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-31T23:15:32.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Q1\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Q1\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T23:12:31.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "Q1\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "Q1\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T23:11:36.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\Commands\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "Q1\\Commands\\DelegateCommand.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\Commands\\DelegateCommand.cs",
+              "RelativeToolTip": "Q1\\Commands\\DelegateCommand.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:56:14.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Q1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\MainWindow.xaml",
+              "RelativeToolTip": "Q1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-31T22:53:53.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasketItemInfo.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\OMSLibrary\\Models\\BasketItemInfo.cs",
+              "RelativeDocumentMoniker": "OMSLibrary\\Models\\BasketItemInfo.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\OMSLibrary\\Models\\BasketItemInfo.cs",
+              "RelativeToolTip": "OMSLibrary\\Models\\BasketItemInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:52:57.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BasketShopperInfo.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\OMSLibrary\\Models\\BasketShopperInfo.cs",
+              "RelativeDocumentMoniker": "OMSLibrary\\Models\\BasketShopperInfo.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\OMSLibrary\\Models\\BasketShopperInfo.cs",
+              "RelativeToolTip": "OMSLibrary\\Models\\BasketShopperInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:51:33.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductInfo.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\OMSLibrary\\Models\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "OMSLibrary\\Models\\ProductInfo.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\OMSLibrary\\Models\\ProductInfo.cs",
+              "RelativeToolTip": "OMSLibrary\\Models\\ProductInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:50:39.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\DataAccess\\DBManager.cs",
+              "RelativeDocumentMoniker": "Q1\\DataAccess\\DBManager.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\DataAccess\\DBManager.cs",
+              "RelativeToolTip": "Q1\\DataAccess\\DBManager.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAswFcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:49:40.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Q1",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\Q1.csproj",
+              "RelativeDocumentMoniker": "Q1\\Q1.csproj",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\Q1\\Q1.csproj",
+              "RelativeToolTip": "Q1\\Q1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-31T22:45:46.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OmsContext.cs",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\OMSLibrary\\Models\\OmsContext.cs",
+              "RelativeDocumentMoniker": "OMSLibrary\\Models\\OmsContext.cs",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\OrderManagement\\OMSLibrary\\Models\\OmsContext.cs",
+              "RelativeToolTip": "OMSLibrary\\Models\\OmsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:45:11.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

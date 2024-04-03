@@ -1,0 +1,14 @@
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\bin\Debug\net8.0\OMSLibrary.deps.json
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\bin\Debug\net8.0\OMSLibrary.runtimeconfig.json
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\bin\Debug\net8.0\OMSLibrary.dll
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\bin\Debug\net8.0\OMSLibrary.pdb
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\obj\Debug\net8.0\OMSLibrary.csproj.AssemblyReference.cache
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\obj\Debug\net8.0\OMSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\obj\Debug\net8.0\OMSLibrary.AssemblyInfoInputs.cache
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\obj\Debug\net8.0\OMSLibrary.AssemblyInfo.cs
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\obj\Debug\net8.0\OMSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\obj\Debug\net8.0\OMSLibrary.dll
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\obj\Debug\net8.0\refint\OMSLibrary.dll
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\obj\Debug\net8.0\OMSLibrary.pdb
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\obj\Debug\net8.0\OMSLibrary.genruntimeconfig.cache
+C:\Users\tavar\source\repos\OrderManagement\OMSLibrary\obj\Debug\net8.0\ref\OMSLibrary.dll
